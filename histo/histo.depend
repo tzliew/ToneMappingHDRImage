@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1505631010 source:c:\users\user\desktop\histo\main.cpp
+	<stdio.h>
+	<opencv/cv.h>
+	"opencv2/highgui/highgui.hpp"
+	<iostream>
+

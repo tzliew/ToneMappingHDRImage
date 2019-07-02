@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1505449250 source:c:\users\user\desktop\miller\main.cpp
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/highgui/highgui.hpp"
+	<math.h>
+	<iostream>
+

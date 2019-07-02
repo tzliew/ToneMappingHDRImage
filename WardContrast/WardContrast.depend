@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1503913676 source:c:\users\user\desktop\wardcontrast\main.cpp
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/highgui/highgui.hpp"
+	<math.h>
+	<iostream>
+

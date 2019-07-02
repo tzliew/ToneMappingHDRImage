@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1503843917 source:c:\users\user\desktop\1\main.cpp
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/highgui/highgui.hpp"
+	<math.h>
+	<iostream>
+
+1503849467 source:c:\users\user\desktop\normal\main.cpp
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/highgui/highgui.hpp"
+	<math.h>
+	<iostream>
+
